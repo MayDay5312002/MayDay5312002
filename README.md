@@ -2,7 +2,7 @@
 ## I am currently working on my skills as a software engineer, but I am also exploring other fields such as AI, algorithms, and cybersecurity.
 ## Best way to reach me is through email. My email is evarretta.luke@gmail.com
 ## Pronouns: He/Him
-## Fun Fact: I was born in the Philippines, so I can speak 2 languages fluently (englush & bisaya)
+## Fun Fact: I was born in the Philippines, so I can speak 2 languages fluently (English & Bisaya)
 
 <!--
 **MayDay5312002/MayDay5312002** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
